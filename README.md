@@ -3,14 +3,14 @@
 
 ![Restaurant List print screen](./public/image/PrintScreen.png)
 
-## features
+## Features
 
 - 查看所有餐廳清單
 - 依關鍵字搜尋特定餐廳
 - 瀏覽餐廳的詳細資訊
 - 連結餐廳的地址至Google Map
 
-## how to use
+## How to use
 
 1. 請先確認有安裝 node.js 與 npm
 2. 將專案clone到本地
