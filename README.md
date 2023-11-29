@@ -10,7 +10,7 @@
 - 瀏覽餐廳的詳細資訊
 - 連結餐廳的地址至Google Map
 
-### how to use
+## how to use
 
 1. 請先確認有安裝 node.js 與 npm
 2. 將專案clone到本地
