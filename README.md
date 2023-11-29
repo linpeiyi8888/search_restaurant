@@ -1,4 +1,4 @@
-# Restauran list 
+# Restaurant list 
 紀錄屬於自己的餐廳清單，可以瀏覽餐廳、查看詳細資訊、甚至連結到地圖。
 
 ![Restaurant List print screen](./public/image/PrintScreen.png)
