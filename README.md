@@ -14,7 +14,9 @@
 
 1. 請先確認有安裝 node.js 與 npm
 2. 將專案clone到本地
+```
 git clone https://github.com/linpeiyi8888/search_restaurant.git
+```
 3. 進入專案資料夾
 cd search_restaurant
 4. 安裝npm
